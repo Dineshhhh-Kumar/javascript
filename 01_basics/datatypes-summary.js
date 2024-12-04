@@ -27,3 +27,7 @@ const myFunction = function() {
      console.log("Hello World");
      
 }
+
+
+//**********************memory***************************
+//types:  =>Stack(primitive)(it gives copy)  =>Heap(non-primitive)(it gives reference)
